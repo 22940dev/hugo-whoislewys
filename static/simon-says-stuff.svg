@@ -9,25 +9,25 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.0"
-   width="240"
-   height="240"
-   viewBox="0 0 180.00001 180.00001"
+   width="203"
+   height="203"
+   viewBox="0 0 152.25001 152.25001"
    preserveAspectRatio="xMidYMid meet"
    id="svg24"
-   sodipodi:docname="simon-says-corner.svg"
+   sodipodi:docname="simon-says-stuff.svg"
    inkscape:version="1.0.1 (1.0.1+r74)">
   <defs
      id="defs28">
     <rect
        x="1149.2672"
-       y="148.60641"
+       y="148.60642"
        width="2418.4453"
        height="195.0058"
        id="rect1497" />
     <rect
        x="953.56635"
        y="214.66219"
-       width="304.66815"
+       width="304.66814"
        height="30.364754"
        id="rect1491" />
     <linearGradient
@@ -79,10 +79,10 @@
          id="stop1218" />
     </linearGradient>
     <rect
-       x="433.98325"
+       x="433.98324"
        y="110.08856"
-       width="474.76599"
-       height="217.70364"
+       width="474.76598"
+       height="217.70365"
        id="rect1096" />
     <linearGradient
        inkscape:collect="always"
@@ -349,7 +349,7 @@
        cy="373.73157"
        fx="738.59332"
        fy="373.73157"
-       r="67.760201"
+       r="67.7602"
        gradientTransform="matrix(-2.2278038,0.04253882,-0.04348762,-2.2774946,2385.361,1170.9168)"
        gradientUnits="userSpaceOnUse" />
     <radialGradient
@@ -360,7 +360,7 @@
        cy="552.95605"
        fx="737.91779"
        fy="552.95605"
-       r="69.030647"
+       r="69.03065"
        gradientTransform="matrix(-0.10705201,-2.2872135,2.2618699,-0.1058658,-448.7274,2276.7032)"
        gradientUnits="userSpaceOnUse" />
     <radialGradient
@@ -371,14 +371,14 @@
        cy="553.51514"
        fx="559.6629"
        fy="553.51514"
-       r="67.760201"
+       r="67.7602"
        gradientTransform="matrix(2.3847855,0.09386177,-0.0957942,2.4338835,-736.91567,-868.77466)"
        gradientUnits="userSpaceOnUse" />
     <rect
-       x="433.98325"
+       x="433.98324"
        y="110.08856"
-       width="474.76599"
-       height="217.70364"
+       width="474.76598"
+       height="217.70365"
        id="rect1106" />
     <radialGradient
        inkscape:collect="always"
@@ -390,7 +390,7 @@
        cy="552.95605"
        fx="737.91779"
        fy="552.95605"
-       r="69.030647" />
+       r="69.03065" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient1467"
@@ -401,7 +401,7 @@
        cy="553.51514"
        fx="559.6629"
        fy="553.51514"
-       r="67.760201" />
+       r="67.7602" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient1479"
@@ -412,14 +412,14 @@
        cy="373.73157"
        fx="738.59332"
        fy="373.73157"
-       r="67.760201" />
+       r="67.7602" />
     <filter
        y="-0.25"
        height="1.5"
        inkscape:menu-tooltip="Darkens the edge with an inner blur and adds a flexible glow"
        inkscape:menu="Shadows and Glows"
        inkscape:label="Blur"
-       style="color-interpolation-filters:sRGB"
+       style="color-interpolation-filters:sRGB;"
        id="filter1200">
       <feGaussianBlur
          stdDeviation="5"
@@ -568,7 +568,7 @@
        fy="373.5582"
        r="69.030647" />
     <filter
-       style="color-interpolation-filters:sRGB"
+       style="color-interpolation-filters:sRGB;"
        inkscape:label="Drop Shadow"
        id="filter1433">
       <feFlood
@@ -600,7 +600,7 @@
          id="feComposite1431" />
     </filter>
     <filter
-       style="color-interpolation-filters:sRGB"
+       style="color-interpolation-filters:sRGB;"
        inkscape:label="Drop Shadow"
        id="filter1447">
       <feFlood
@@ -632,7 +632,7 @@
          id="feComposite1445" />
     </filter>
     <filter
-       style="color-interpolation-filters:sRGB"
+       style="color-interpolation-filters:sRGB;"
        inkscape:label="Drop Shadow"
        id="filter1461">
       <feFlood
@@ -679,9 +679,9 @@
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
-     inkscape:zoom="0.45254834"
-     inkscape:cx="120.16968"
-     inkscape:cy="147.56768"
+     inkscape:zoom="0.64"
+     inkscape:cx="623.61186"
+     inkscape:cy="505.54049"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -721,6 +721,23 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
      inkscape:export-xdpi="96"
      inkscape:export-ydpi="96"
      transform="rotate(-90,716.71469,545.53611)" />
+  <g
+     id="g1503">
+    <path
+       id="path1782-6-3"
+       style="fill:#1cc900;fill-opacity:1;stroke:#1cc900;stroke-width:5.66929;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter960)"
+       d="m 614.16669,283.2305 a 138.06872,135.71888 0 0 0 -138.0613,135.52041 h 60.5028 a 77.561672,76.241635 0 0 1 77.5585,-76.12931 z"
+       inkscape:export-filename="/home/luisgomez/dev/whoislewys/whoislewys.dev/static/simon-says-corner.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path1782-6"
+       style="fill:url(#radialGradient1062);fill-opacity:1;stroke:none;stroke-width:2.93866;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 614.16669,283.23049 A 138.06872,135.71888 0 0 0 476.10539,418.7509 h 60.5028 a 77.561675,76.241638 0 0 1 77.5585,-76.1293 z"
+       inkscape:export-filename="/home/luisgomez/dev/whoislewys/whoislewys.dev/static/simon-says-corner.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
   <g
      id="g882"
      transform="translate(1682.0339,-150.50848)" />
@@ -797,6 +814,41 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
   </g>
+  <path
+     id="path1042"
+     style="fill:#ff342b;fill-opacity:1;stroke:none;stroke-width:2.93866;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 191.37985,466.86889 A 135.71888,138.06872 0 0 0 55.859447,328.80758 v 60.50278 a 76.241638,77.561675 0 0 1 76.129303,77.55853 z"
+     inkscape:export-filename="/home/luisgomez/dev/whoislewys/whoislewys.dev/static/simon-says-corner.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <path
+     id="path1044"
+     style="fill:#1cc900;fill-opacity:1;stroke:#1cc900;stroke-width:5.66929;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter960)"
+     d="M 14.119147,329.90466 A 138.06872,135.71888 0 0 0 -123.94215,465.42507 h 60.502797 a 77.561672,76.241635 0 0 1 77.5585,-76.12931 z"
+     inkscape:export-filename="/home/luisgomez/dev/whoislewys/whoislewys.dev/static/simon-says-corner.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <path
+     id="path1046"
+     style="fill:#1cc900;fill-opacity:1;stroke:none;stroke-width:2.93866;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 14.119147,329.90465 A 138.06872,135.71888 0 0 0 -123.94215,465.42506 h 60.502797 a 77.561675,76.241638 0 0 1 77.5585,-76.1293 z"
+     inkscape:export-filename="/home/luisgomez/dev/whoislewys/whoislewys.dev/static/simon-says-corner.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <path
+     id="path1048"
+     style="fill:#ffec06;fill-opacity:1;stroke:none;stroke-width:2.93866;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M -123.07095,508.59111 A 135.71888,138.06872 0 0 0 12.449447,646.65243 v -60.50278 a 76.241638,77.561675 0 0 1 -76.1293,-77.55854 z"
+     inkscape:export-filename="/home/luisgomez/dev/whoislewys/whoislewys.dev/static/simon-says-corner.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <path
+     id="path1050"
+     style="fill:#0093ff;fill-opacity:1;stroke:none;stroke-width:2.93866;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 53.913447,644.82294 A 138.06872,135.71888 0 0 0 191.97475,509.30252 h -60.5028 a 77.561675,76.241638 0 0 1 -77.558503,76.12931 z"
+     inkscape:export-filename="/home/luisgomez/dev/whoislewys/whoislewys.dev/static/simon-says-corner.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
   <text
      xml:space="preserve"
      id="text1094"
@@ -912,6 +964,41 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
   </g>
+  <path
+     id="path1411"
+     style="fill:#ff342b;fill-opacity:1;stroke:none;stroke-width:2.93866;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M -394.49186,437.77502 A 135.71888,138.06872 0 0 0 -530.01227,299.71371 v 60.50278 a 76.241638,77.561675 0 0 1 76.12931,77.55853 z"
+     inkscape:export-filename="/home/luisgomez/dev/whoislewys/whoislewys.dev/static/simon-says-corner.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <path
+     id="path1413"
+     style="fill:#1cc900;fill-opacity:1;stroke:#1cc900;stroke-width:5.66929;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter960)"
+     d="M -571.75257,300.81079 A 138.06872,135.71888 0 0 0 -709.81386,436.3312 h 60.50279 a 77.561672,76.241635 0 0 1 77.5585,-76.12931 z"
+     inkscape:export-filename="/home/luisgomez/dev/whoislewys/whoislewys.dev/static/simon-says-corner.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <path
+     id="path1415"
+     style="fill:#1cc900;fill-opacity:1;stroke:none;stroke-width:2.93866;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m -571.75257,300.81078 a 138.06872,135.71888 0 0 0 -138.06129,135.52041 h 60.50279 a 77.561675,76.241638 0 0 1 77.5585,-76.1293 z"
+     inkscape:export-filename="/home/luisgomez/dev/whoislewys/whoislewys.dev/static/simon-says-corner.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <path
+     id="path1417"
+     style="fill:#ffec06;fill-opacity:1;stroke:none;stroke-width:2.93866;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m -708.94266,479.49724 a 135.71888,138.06872 0 0 0 135.52039,138.06132 v -60.50278 a 76.241638,77.561675 0 0 1 -76.1293,-77.55854 z"
+     inkscape:export-filename="/home/luisgomez/dev/whoislewys/whoislewys.dev/static/simon-says-corner.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <path
+     id="path1419"
+     style="fill:#0093ff;fill-opacity:1;stroke:none;stroke-width:2.93866;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m -531.95827,615.72907 a 138.06872,135.71888 0 0 0 138.06131,-135.52042 h -60.5028 a 77.561675,76.241638 0 0 1 -77.55851,76.12931 z"
+     inkscape:export-filename="/home/luisgomez/dev/whoislewys/whoislewys.dev/static/simon-says-corner.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
   <text
      xml:space="preserve"
      id="text1489"
@@ -929,30 +1016,4 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
 </tspan></tspan><tspan
        x="1149.2676"
        y="213.40172"><tspan>added og shape, drop shadowed it, layed under</tspan></tspan></text>
-  <rect
-     style="fill:#0000ff;stroke-width:1.33011"
-     id="rect2202"
-     width="180.00002"
-     height="180.00002"
-     x="0"
-     y="-3.5527137e-15"
-     rx="0" />
-  <g
-     id="g1503"
-     transform="translate(-455.13604,-260.9907)">
-    <path
-       id="path1782-6-3"
-       style="fill:#1cc900;fill-opacity:1;stroke:#1cc900;stroke-width:5.66929;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter960)"
-       d="m 614.16669,283.2305 a 138.06872,135.71888 0 0 0 -138.0613,135.52041 h 60.5028 a 77.561672,76.241635 0 0 1 77.5585,-76.12931 z"
-       inkscape:export-filename="/home/luisgomez/dev/whoislewys/whoislewys.dev/static/simon-says-corner.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <path
-       id="path1782-6"
-       style="fill:url(#radialGradient1062);fill-opacity:1;stroke:none;stroke-width:2.93866;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 614.16669,283.23049 A 138.06872,135.71888 0 0 0 476.10539,418.7509 h 60.5028 a 77.561675,76.241638 0 0 1 77.5585,-76.1293 z"
-       inkscape:export-filename="/home/luisgomez/dev/whoislewys/whoislewys.dev/static/simon-says-corner.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-  </g>
 </svg>
