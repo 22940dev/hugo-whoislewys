@@ -9,19 +9,34 @@ params:
     profileMode:
         enabled: true
         # title: "<Title>" # optional default will be site title
-        subtitle: "a sexy man"
+        # subtitle: "a sexy man"
         # imageUrl: "/static/simon-says-corner.png" # optional
         # imageTitle: "image alt title" # optional
         # imageWidth: 120 # custom size
         # imageHeight: 120 # custom size
-        buttons:
-          - name: Archive
-            url: "/archive"
-          - name: Github
-            url: "https://github.com/whoislewys"
-
-    # socialIcons: # optional
-    #     - name: "<platform>"
-    #         url: "<link>"
-    #     - name: "<platform 2>"
-    #         url: "<link2>"
+        # buttons:
+        #   - name: GitHub
+        #     url: "https://github.com/whoislewys"
+    socialIcons: # optional
+        # - name: "Twitter"
+        #   url: "twitter.com/whoislewys"
+        - name: "GitHub"
+          url: "github.com/whoislewys"
+menu:
+    main:
+        - identifier: blog
+          name: blog
+          url: /blog/
+          weight: 10
+        - identifier: tags
+          name: tags
+          url: /tags/
+          weight: 20
+        - identifier: work
+          name: work
+          url: /work/
+          weight: 30
+        - identifier: about
+          name: about
+          url: /about/
+          weight: 40
