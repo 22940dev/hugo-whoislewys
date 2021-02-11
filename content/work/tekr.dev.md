@@ -14,3 +14,7 @@ It does say a surprising amount about who you work well with, though.
 It is based on a post by the prolific Steve Yegge, mirrored [here](/2019/09/06/notes-from-the-mystery-machine_bus/).
 
 The project lives on [tekr.dev](https://tekr.dev).
+
+
+## What I did:
+* Buncha TypeScript
