@@ -1,6 +1,5 @@
 ---
 title: "About"
-description: "human being with feelings"
 author: "Luis Gomez"
 ShowReadingTime: true
 date: 2020-12-22 12:00:00

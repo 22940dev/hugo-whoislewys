@@ -1,14 +1,16 @@
 ---
-author: Luis
+author: Luis Gomez
+title: How I Built My Own Guitar
+description: With hand tools and NO woodworking experience
+url: /2018/06/25/Building My Own Guitar/
 date: 2018-05-23 12:00:00
-header-img: img/in-post/luis-paul-junior.jpg
-subtitle: With hand tools and NO woodworking experience
+cover:
+  image: "img/in-post/luis-paul-junior.jpg"
 tags:
   - DIY
   - Music
   - Audio
-title: How I Built My Own Guitar
-url: /2018/06/25/Building My Own Guitar/
+ShowReadingTime: true
 ---
 
 

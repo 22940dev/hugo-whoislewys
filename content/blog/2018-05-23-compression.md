@@ -1,15 +1,18 @@
 ---
 title: Learn Compression ——   Without A Ph.D. —— +Cheatsheet
 description: "Less math, more mixing"
-author: Luis
+author: Luis Gomez
 date: 2018-05-23 12:00:00
+cover:
+  image: "/img/in-post/knobs.jpg"
+  alt: "Compressor Knobs"
 categories:
   - Audio
 tags:
   - Audio
   - Compression
   - Mixing
-header-img: img/in-post/knobs.jpg
+ShowReadingTime: true
 url: /2018/05/23/compression/
 ---
 

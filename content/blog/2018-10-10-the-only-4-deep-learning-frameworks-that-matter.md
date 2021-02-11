@@ -1,7 +1,6 @@
 ---
-author: Luis
+author: Luis Gomez
 date: 2018-10-10 15:27:00
-header-img: img/in-post/luis-paul-junior.jpg
 subtitle: Making the choice easy for idiots like me
 tags:
   - AI
@@ -10,6 +9,7 @@ tags:
   - Deep Learning
 title: The Only 4 Deep Learning Frameworks That Matter
 url: /2018/10/10/the-only-4-deep-learning-frameworks-that-matter/
+ShowReadingTime: true
 ---
 
 

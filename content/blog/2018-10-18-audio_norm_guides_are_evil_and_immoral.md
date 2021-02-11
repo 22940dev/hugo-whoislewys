@@ -11,6 +11,7 @@ tags:
   - Audio
 title: Why FFmpeg Loudness & Normalization Guides Are All Wrong, Evil & Immoral!
 url: /2018/10/18/audio_norm_guides_are_evil_and_immoral/
+ShowReadingTime: true
 ---
 
 

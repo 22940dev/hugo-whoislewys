@@ -1,13 +1,16 @@
 ---
 author: Steve Yegge
 date: 2019-09-06 12:00:00
-header-img: img/in-post/mystery-machine.jpeg
-subtitle: A mirror of Steve Yegge's old Google+ post
+cover:
+  image: "img/in-post/mystery-machine.jpeg"
+  alt: "Mystery Machine"
+title: Notes from the Mystery Machine Bus
+description: A mirror of Steve Yegge's old Google+ post
+url: /2019/09/06/Notes-From-The-Mystery-Machine_Bus/
 tags:
   - Code
   - Rant
-title: Notes from the Mystery Machine Bus
-url: /2019/09/06/Notes-From-The-Mystery-Machine_Bus/
+ShowReadingTime: true
 ---
 
 What follows is an exact repost/mirror of Steve Yegge's 2012 post "Notes from the Mystery Machine Bus" from Google+ on the software risk aversion axis. It's not even accessible from the WaybackMachine. Enjoy.
