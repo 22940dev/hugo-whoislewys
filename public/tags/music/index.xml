@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Music on whoislewys</title>
+    <link>https://whoislewys.com/tags/music/</link>
+    <description>Recent content in Music on whoislewys</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Oct 2018 06:07:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://whoislewys.com/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why FFmpeg Loudness &amp; Normalization Guides Are All Wrong, Evil &amp; Immoral!</title>
+      <link>https://whoislewys.com/2018/10/18/audio_norm_guides_are_evil_and_immoral/</link>
+      <pubDate>Thu, 18 Oct 2018 06:07:00 +0000</pubDate>
+      
+      <guid>https://whoislewys.com/2018/10/18/audio_norm_guides_are_evil_and_immoral/</guid>
+      <description>The Wrong Way There are SEVERAL guides online telling you how to normalize audio to provide a great listening experience by using FFmpeg’s &amp;ldquo;loudnorm&amp;rdquo; filter. Most walk you through a simple process called &amp;ldquo;track normalization.&amp;rdquo; You set a goal loudness, and adjust every piece of audio up or down to match that loudness. This is evil and immoral and I’ll tell you why:
+Loudnorm changes the way things sound!
+Loudnorm crushes dynamics!</description>
+    </item>
+    
+    <item>
+      <title>How I Built My Own Guitar</title>
+      <link>https://whoislewys.com/2018/06/25/building-my-own-guitar/</link>
+      <pubDate>Wed, 23 May 2018 12:00:00 +0000</pubDate>
+      
+      <guid>https://whoislewys.com/2018/06/25/building-my-own-guitar/</guid>
+      <description>Why? I wanted a faster, more efficient way to make music.
+My solution? Stick a Launchpad in a guitar
+Sadly, no electric guitars I found had the room for a launchpad.
+My solution (pt 2)? Build my own guitar with correct dimensions.
+My advice? DON&amp;rsquo;T DO IT. It was really hard and time consuming.
+Unless you NEED to do this to get specific dimensions &amp;amp; realize some crazy idea of your own, just buy a nice used guitar.</description>
+    </item>
+    
+  </channel>
+</rss>

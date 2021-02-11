@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on whoislewys</title>
+    <link>https://whoislewys.com/blog/</link>
+    <description>Recent content in Blogs on whoislewys</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Sep 2019 12:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://whoislewys.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Notes from the Mystery Machine Bus</title>
+      <link>https://whoislewys.com/2019/09/06/notes-from-the-mystery-machine_bus/</link>
+      <pubDate>Fri, 06 Sep 2019 12:00:00 +0000</pubDate>
+      
+      <guid>https://whoislewys.com/2019/09/06/notes-from-the-mystery-machine_bus/</guid>
+      <description>What follows is an exact repost/mirror of Steve Yegge&amp;rsquo;s 2012 post &amp;ldquo;Notes from the Mystery Machine Bus&amp;rdquo; from Google+ on the software risk aversion axis. It&amp;rsquo;s not even accessible from the WaybackMachine. Enjoy.
+Notes from the Mystery Machine Bus I&amp;rsquo;ve spent the past eight years (starting back in June 2004) writing elaborate rants about a bunch of vaguely related software engineering issues.
+I was doing all that ranting because I&amp;rsquo;ve been genuinely perplexed by a set of &amp;ldquo;bizarre&amp;rdquo; world-views held dear by &amp;ndash; as far as I can tell &amp;ndash; about half of all programmers I encounter, whether online or in person.</description>
+    </item>
+    
+    <item>
+      <title>Why FFmpeg Loudness &amp; Normalization Guides Are All Wrong, Evil &amp; Immoral!</title>
+      <link>https://whoislewys.com/2018/10/18/audio_norm_guides_are_evil_and_immoral/</link>
+      <pubDate>Thu, 18 Oct 2018 06:07:00 +0000</pubDate>
+      
+      <guid>https://whoislewys.com/2018/10/18/audio_norm_guides_are_evil_and_immoral/</guid>
+      <description>The Wrong Way There are SEVERAL guides online telling you how to normalize audio to provide a great listening experience by using FFmpeg’s &amp;ldquo;loudnorm&amp;rdquo; filter. Most walk you through a simple process called &amp;ldquo;track normalization.&amp;rdquo; You set a goal loudness, and adjust every piece of audio up or down to match that loudness. This is evil and immoral and I’ll tell you why:
+Loudnorm changes the way things sound!
+Loudnorm crushes dynamics!</description>
+    </item>
+    
+    <item>
+      <title>The Only 4 Deep Learning Frameworks That Matter</title>
+      <link>https://whoislewys.com/2018/10/10/the-only-4-deep-learning-frameworks-that-matter/</link>
+      <pubDate>Wed, 10 Oct 2018 15:27:00 +0000</pubDate>
+      
+      <guid>https://whoislewys.com/2018/10/10/the-only-4-deep-learning-frameworks-that-matter/</guid>
+      <description>Let me get this off my chest right off the bat: Keras is all you need for 90% of neural network tasks. Before jumping in, you should understand what is going on with neural networks(watch 3Blue1Brown&amp;rsquo;s videos).
+Ideally, you can understand all the math behind them and code a basic one from scratch (read Nielsen&amp;rsquo;s Neural Networks and Deep Learning).
+But for most cases, even understanding is unnecessary with all the pretrained models frameworks ship with nowadays.</description>
+    </item>
+    
+    <item>
+      <title>How I Built My Own Guitar</title>
+      <link>https://whoislewys.com/2018/06/25/building-my-own-guitar/</link>
+      <pubDate>Wed, 23 May 2018 12:00:00 +0000</pubDate>
+      
+      <guid>https://whoislewys.com/2018/06/25/building-my-own-guitar/</guid>
+      <description>Why? I wanted a faster, more efficient way to make music.
+My solution? Stick a Launchpad in a guitar
+Sadly, no electric guitars I found had the room for a launchpad.
+My solution (pt 2)? Build my own guitar with correct dimensions.
+My advice? DON&amp;rsquo;T DO IT. It was really hard and time consuming.
+Unless you NEED to do this to get specific dimensions &amp;amp; realize some crazy idea of your own, just buy a nice used guitar.</description>
+    </item>
+    
+    <item>
+      <title>Learn Compression ——   Without A Ph.D. —— &#43;Cheatsheet</title>
+      <link>https://whoislewys.com/2018/05/23/compression/</link>
+      <pubDate>Wed, 23 May 2018 12:00:00 +0000</pubDate>
+      
+      <guid>https://whoislewys.com/2018/05/23/compression/</guid>
+      <description>Index Here are quick links to each section. If you don&amp;rsquo;t know where to start, go to Downloads.
+DownloadsVideoTranscriptionCompressor ControlsThresholdRatioAttackReleaseExample SettingsFIN (comment section)
+Downloads - Start Here Download the FREE [Compressor Cheatsheet](/downloads/compression-tut/Compression Cheatsheet.pdf) for an easy, one-page summary of compressor fundamentals.
+ Note: the PDF above is A4 sized &amp;amp; optimized for web. For a great looking printout and files good for print, please go to the shop.
+ ![cheatsheet](/downloads/compression-tut/Compression Cheatsheet.</description>
+    </item>
+    
+  </channel>
+</rss>

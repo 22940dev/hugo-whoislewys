@@ -3,23 +3,156 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://whoislewys.com/work/</loc>
-  </url>
-
-  <url>
     <loc>https://whoislewys.com/about/</loc>
-  </url>
-
-  <url>
-    <loc>https://whoislewys.com/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://whoislewys.com/tags/</loc>
+    <lastmod>2020-12-22T12:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://whoislewys.com/</loc>
+    <lastmod>2020-12-22T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://whoislewys.com/blog/</loc>
+    <lastmod>2019-09-06T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://whoislewys.com/tags/code/</loc>
+    <lastmod>2019-09-06T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://whoislewys.com/2019/09/06/notes-from-the-mystery-machine_bus/</loc>
+    <lastmod>2019-09-06T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://whoislewys.com/tags/rant/</loc>
+    <lastmod>2019-09-06T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://whoislewys.com/tags/</loc>
+    <lastmod>2019-09-06T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://whoislewys.com/tags/audio/</loc>
+    <lastmod>2018-10-18T06:07:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://whoislewys.com/categories/audio/</loc>
+    <lastmod>2018-10-18T06:07:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://whoislewys.com/categories/</loc>
+    <lastmod>2018-10-18T06:07:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://whoislewys.com/tags/diy/</loc>
+    <lastmod>2018-10-18T06:07:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://whoislewys.com/tags/music/</loc>
+    <lastmod>2018-10-18T06:07:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://whoislewys.com/2018/10/18/audio_norm_guides_are_evil_and_immoral/</loc>
+    <lastmod>2018-10-18T06:07:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://whoislewys.com/tags/ai/</loc>
+    <lastmod>2018-10-10T15:27:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://whoislewys.com/tags/deep-learning/</loc>
+    <lastmod>2018-10-10T15:27:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://whoislewys.com/tags/ml/</loc>
+    <lastmod>2018-10-10T15:27:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://whoislewys.com/2018/10/10/the-only-4-deep-learning-frameworks-that-matter/</loc>
+    <lastmod>2018-10-10T15:27:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://whoislewys.com/tags/compression/</loc>
+    <lastmod>2018-05-23T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://whoislewys.com/2018/06/25/building-my-own-guitar/</loc>
+    <lastmod>2018-05-23T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://whoislewys.com/2018/05/23/compression/</loc>
+    <lastmod>2018-05-23T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://whoislewys.com/tags/mixing/</loc>
+    <lastmod>2018-05-23T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://whoislewys.com/tags/cheatsheets/</loc>
+  </url>
+  
+  <url>
+    <loc>https://whoislewys.com/cheatsheets/</loc>
+  </url>
+  
+  <url>
+    <loc>https://whoislewys.com/work/crithub/</loc>
+  </url>
+  
+  <url>
+    <loc>https://whoislewys.com/work/gtext/</loc>
+  </url>
+  
+  <url>
+    <loc>https://whoislewys.com/work/mixing-cheatsheets/</loc>
+  </url>
+  
+  <url>
+    <loc>https://whoislewys.com/work/mood_industries/</loc>
+  </url>
+  
+  <url>
+    <loc>https://whoislewys.com/tree/link1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://whoislewys.com/tags/reverb/</loc>
+  </url>
+  
+  <url>
+    <loc>https://whoislewys.com/work/tekr.dev/</loc>
+  </url>
+  
+  <url>
+    <loc>https://whoislewys.com/tree/</loc>
+  </url>
+  
+  <url>
+    <loc>https://whoislewys.com/work/workiva/</loc>
+  </url>
+  
+  <url>
+    <loc>https://whoislewys.com/work/</loc>
   </url>
   
 </urlset>

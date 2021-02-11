@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rant on whoislewys</title>
+    <link>https://whoislewys.com/tags/rant/</link>
+    <description>Recent content in Rant on whoislewys</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Sep 2019 12:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://whoislewys.com/tags/rant/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Notes from the Mystery Machine Bus</title>
+      <link>https://whoislewys.com/2019/09/06/notes-from-the-mystery-machine_bus/</link>
+      <pubDate>Fri, 06 Sep 2019 12:00:00 +0000</pubDate>
+      
+      <guid>https://whoislewys.com/2019/09/06/notes-from-the-mystery-machine_bus/</guid>
+      <description>What follows is an exact repost/mirror of Steve Yegge&amp;rsquo;s 2012 post &amp;ldquo;Notes from the Mystery Machine Bus&amp;rdquo; from Google+ on the software risk aversion axis. It&amp;rsquo;s not even accessible from the WaybackMachine. Enjoy.
+Notes from the Mystery Machine Bus I&amp;rsquo;ve spent the past eight years (starting back in June 2004) writing elaborate rants about a bunch of vaguely related software engineering issues.
+I was doing all that ranting because I&amp;rsquo;ve been genuinely perplexed by a set of &amp;ldquo;bizarre&amp;rdquo; world-views held dear by &amp;ndash; as far as I can tell &amp;ndash; about half of all programmers I encounter, whether online or in person.</description>
+    </item>
+    
+  </channel>
+</rss>

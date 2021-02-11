@@ -5,6 +5,119 @@
     <link>https://whoislewys.com/tags/</link>
     <description>Recent content in Tags on whoislewys</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://whoislewys.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Sep 2019 12:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://whoislewys.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Code</title>
+      <link>https://whoislewys.com/tags/code/</link>
+      <pubDate>Fri, 06 Sep 2019 12:00:00 +0000</pubDate>
+      
+      <guid>https://whoislewys.com/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rant</title>
+      <link>https://whoislewys.com/tags/rant/</link>
+      <pubDate>Fri, 06 Sep 2019 12:00:00 +0000</pubDate>
+      
+      <guid>https://whoislewys.com/tags/rant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audio</title>
+      <link>https://whoislewys.com/tags/audio/</link>
+      <pubDate>Thu, 18 Oct 2018 06:07:00 +0000</pubDate>
+      
+      <guid>https://whoislewys.com/tags/audio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DIY</title>
+      <link>https://whoislewys.com/tags/diy/</link>
+      <pubDate>Thu, 18 Oct 2018 06:07:00 +0000</pubDate>
+      
+      <guid>https://whoislewys.com/tags/diy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>https://whoislewys.com/tags/music/</link>
+      <pubDate>Thu, 18 Oct 2018 06:07:00 +0000</pubDate>
+      
+      <guid>https://whoislewys.com/tags/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI</title>
+      <link>https://whoislewys.com/tags/ai/</link>
+      <pubDate>Wed, 10 Oct 2018 15:27:00 +0000</pubDate>
+      
+      <guid>https://whoislewys.com/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://whoislewys.com/tags/deep-learning/</link>
+      <pubDate>Wed, 10 Oct 2018 15:27:00 +0000</pubDate>
+      
+      <guid>https://whoislewys.com/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ML</title>
+      <link>https://whoislewys.com/tags/ml/</link>
+      <pubDate>Wed, 10 Oct 2018 15:27:00 +0000</pubDate>
+      
+      <guid>https://whoislewys.com/tags/ml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compression</title>
+      <link>https://whoislewys.com/tags/compression/</link>
+      <pubDate>Wed, 23 May 2018 12:00:00 +0000</pubDate>
+      
+      <guid>https://whoislewys.com/tags/compression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mixing</title>
+      <link>https://whoislewys.com/tags/mixing/</link>
+      <pubDate>Wed, 23 May 2018 12:00:00 +0000</pubDate>
+      
+      <guid>https://whoislewys.com/tags/mixing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cheatsheets</title>
+      <link>https://whoislewys.com/tags/cheatsheets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://whoislewys.com/tags/cheatsheets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reverb</title>
+      <link>https://whoislewys.com/tags/reverb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://whoislewys.com/tags/reverb/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

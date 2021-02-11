@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Works on whoislewys</title>
+    <link>https://whoislewys.com/work/</link>
+    <description>Recent content in Works on whoislewys</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://whoislewys.com/work/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CritHub</title>
+      <link>https://whoislewys.com/work/crithub/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://whoislewys.com/work/crithub/</guid>
+      <description>Project Overview: A critique platform for creatives to give, receive, &amp;amp; collect feedback. Millions of underground musicians are not able to easily move through the creative process because the review of music in development is made hard by a feeling of isolation within the creative ecosystem. Our number one goal with this project was to make the ideation, production, and testing of creative work easier for both underground and established musicians.</description>
+    </item>
+    
+    <item>
+      <title>GText</title>
+      <link>https://whoislewys.com/work/gtext/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://whoislewys.com/work/gtext/</guid>
+      <description>Project Overview: Lots of places in the developing world have extremely limited data access. But they can text. GText used the Twilio SMS API to send location requests to Google maps, and return directions to the user.
+This enables those with even the poorest connections to find directions to any place they can dream of. (In case they forgot a map, have never been to a certain place and want to know how far it is, etc.</description>
+    </item>
+    
+    <item>
+      <title>Mixing Cheatsheets</title>
+      <link>https://whoislewys.com/work/mixing-cheatsheets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://whoislewys.com/work/mixing-cheatsheets/</guid>
+      <description>Project Overview: Just as Paul Graham wished to be an artiste and tricked himself into settling for non-creative, pizza grease-stained technology, so have I. But here&amp;rsquo;s some cool posters I made anyways, to teach people how to use an audio effect called compression. (I got a bit obsessed with mix engineering midway thru high school)
+The compression sheet is STILL the top all time post on the r/edmproduction subreddit (as of Feb9, 2021).</description>
+    </item>
+    
+    <item>
+      <title>Mood Industries</title>
+      <link>https://whoislewys.com/work/mood_industries/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://whoislewys.com/work/mood_industries/</guid>
+      <description>Project Overview:  note: ah yes, the days of skipping calculus 2, to learn calculus 3, to write a better neural net, to give the best music recommendations in the world.
+ Discovering new underground music is painful because you have to spend a lot of time listening to bad music before finding a single good song. Our goal with this project was to make it trivial to find new music by new musicians that you could fall in love with.</description>
+    </item>
+    
+    <item>
+      <title>tekr</title>
+      <link>https://whoislewys.com/work/tekr.dev/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://whoislewys.com/work/tekr.dev/</guid>
+      <description>Project Overview: tekr is a quiz designed to help you discover if you are a conservative or liberal programmer. This has NOTHING to do with politics whatsoever - just risk aversion.
+It does say a surprising amount about who you work well with, though.
+It is based on a post by the prolific Steve Yegge, mirrored here.
+The project lives on tekr.dev.</description>
+    </item>
+    
+    <item>
+      <title>Workiva</title>
+      <link>https://whoislewys.com/work/workiva/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://whoislewys.com/work/workiva/</guid>
+      <description>Project Overview: Connecting Financial Processes &amp;ldquo;Make life easier with reports that write themselves.
+Our hardworking platform automates repetitive tasks, orchestrates workflows, and turns your data and reports into reusable assets. Never start from scratch again.&amp;rdquo;
+What I did:  Worked in a team of 4 to release a full-stack microservice to production in Workiva’s flagship product (Wdesk) using Java, Dart, React, and MySQL Use agile development processes to plan, develop, test, and release new features and improvements to the attachments, comments, history, and digital review experiences Maintain, refactor, and add new features to existing codebases at scale in Go, Java, and React Utilize modern cloud tooling like AWS EC2 and Docker  Fun Facts:  Ticker: $WK I got addicted to vim while working here thanks to my colleague Pat.</description>
+    </item>
+    
+  </channel>
+</rss>

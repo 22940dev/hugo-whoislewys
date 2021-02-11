@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI on whoislewys</title>
+    <link>https://whoislewys.com/tags/ai/</link>
+    <description>Recent content in AI on whoislewys</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Oct 2018 15:27:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://whoislewys.com/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Only 4 Deep Learning Frameworks That Matter</title>
+      <link>https://whoislewys.com/2018/10/10/the-only-4-deep-learning-frameworks-that-matter/</link>
+      <pubDate>Wed, 10 Oct 2018 15:27:00 +0000</pubDate>
+      
+      <guid>https://whoislewys.com/2018/10/10/the-only-4-deep-learning-frameworks-that-matter/</guid>
+      <description>Let me get this off my chest right off the bat: Keras is all you need for 90% of neural network tasks. Before jumping in, you should understand what is going on with neural networks(watch 3Blue1Brown&amp;rsquo;s videos).
+Ideally, you can understand all the math behind them and code a basic one from scratch (read Nielsen&amp;rsquo;s Neural Networks and Deep Learning).
+But for most cases, even understanding is unnecessary with all the pretrained models frameworks ship with nowadays.</description>
+    </item>
+    
+  </channel>
+</rss>

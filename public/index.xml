@@ -5,6 +5,164 @@
     <link>https://whoislewys.com/</link>
     <description>Recent content on whoislewys</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://whoislewys.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Dec 2020 12:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://whoislewys.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://whoislewys.com/about/</link>
+      <pubDate>Tue, 22 Dec 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://whoislewys.com/about/</guid>
+      <description>Luis has been obsessed with technology and entrepreneurship from a young age. As early as middle school, he was busy jailbreaking iPods and selling them to his friends.
+He has always loved creating things that are beautiful, and building value from the ground up.
+This passion drove Luis to excel far beyond his classmates when it came to technology. He began teaching himself how to program in high school. This knowledge was then coupled with a computer science degree from Arizona State University where he launched his first tech startup — a music app which maintained 15,000 weekly active users before sunsetting the project.</description>
+    </item>
+    
+    <item>
+      <title>Notes from the Mystery Machine Bus</title>
+      <link>https://whoislewys.com/2019/09/06/notes-from-the-mystery-machine_bus/</link>
+      <pubDate>Fri, 06 Sep 2019 12:00:00 +0000</pubDate>
+      
+      <guid>https://whoislewys.com/2019/09/06/notes-from-the-mystery-machine_bus/</guid>
+      <description>What follows is an exact repost/mirror of Steve Yegge&amp;rsquo;s 2012 post &amp;ldquo;Notes from the Mystery Machine Bus&amp;rdquo; from Google+ on the software risk aversion axis. It&amp;rsquo;s not even accessible from the WaybackMachine. Enjoy.
+Notes from the Mystery Machine Bus I&amp;rsquo;ve spent the past eight years (starting back in June 2004) writing elaborate rants about a bunch of vaguely related software engineering issues.
+I was doing all that ranting because I&amp;rsquo;ve been genuinely perplexed by a set of &amp;ldquo;bizarre&amp;rdquo; world-views held dear by &amp;ndash; as far as I can tell &amp;ndash; about half of all programmers I encounter, whether online or in person.</description>
+    </item>
+    
+    <item>
+      <title>Why FFmpeg Loudness &amp; Normalization Guides Are All Wrong, Evil &amp; Immoral!</title>
+      <link>https://whoislewys.com/2018/10/18/audio_norm_guides_are_evil_and_immoral/</link>
+      <pubDate>Thu, 18 Oct 2018 06:07:00 +0000</pubDate>
+      
+      <guid>https://whoislewys.com/2018/10/18/audio_norm_guides_are_evil_and_immoral/</guid>
+      <description>The Wrong Way There are SEVERAL guides online telling you how to normalize audio to provide a great listening experience by using FFmpeg’s &amp;ldquo;loudnorm&amp;rdquo; filter. Most walk you through a simple process called &amp;ldquo;track normalization.&amp;rdquo; You set a goal loudness, and adjust every piece of audio up or down to match that loudness. This is evil and immoral and I’ll tell you why:
+Loudnorm changes the way things sound!
+Loudnorm crushes dynamics!</description>
+    </item>
+    
+    <item>
+      <title>The Only 4 Deep Learning Frameworks That Matter</title>
+      <link>https://whoislewys.com/2018/10/10/the-only-4-deep-learning-frameworks-that-matter/</link>
+      <pubDate>Wed, 10 Oct 2018 15:27:00 +0000</pubDate>
+      
+      <guid>https://whoislewys.com/2018/10/10/the-only-4-deep-learning-frameworks-that-matter/</guid>
+      <description>Let me get this off my chest right off the bat: Keras is all you need for 90% of neural network tasks. Before jumping in, you should understand what is going on with neural networks(watch 3Blue1Brown&amp;rsquo;s videos).
+Ideally, you can understand all the math behind them and code a basic one from scratch (read Nielsen&amp;rsquo;s Neural Networks and Deep Learning).
+But for most cases, even understanding is unnecessary with all the pretrained models frameworks ship with nowadays.</description>
+    </item>
+    
+    <item>
+      <title>How I Built My Own Guitar</title>
+      <link>https://whoislewys.com/2018/06/25/building-my-own-guitar/</link>
+      <pubDate>Wed, 23 May 2018 12:00:00 +0000</pubDate>
+      
+      <guid>https://whoislewys.com/2018/06/25/building-my-own-guitar/</guid>
+      <description>Why? I wanted a faster, more efficient way to make music.
+My solution? Stick a Launchpad in a guitar
+Sadly, no electric guitars I found had the room for a launchpad.
+My solution (pt 2)? Build my own guitar with correct dimensions.
+My advice? DON&amp;rsquo;T DO IT. It was really hard and time consuming.
+Unless you NEED to do this to get specific dimensions &amp;amp; realize some crazy idea of your own, just buy a nice used guitar.</description>
+    </item>
+    
+    <item>
+      <title>Learn Compression ——   Without A Ph.D. —— &#43;Cheatsheet</title>
+      <link>https://whoislewys.com/2018/05/23/compression/</link>
+      <pubDate>Wed, 23 May 2018 12:00:00 +0000</pubDate>
+      
+      <guid>https://whoislewys.com/2018/05/23/compression/</guid>
+      <description>Index Here are quick links to each section. If you don&amp;rsquo;t know where to start, go to Downloads.
+DownloadsVideoTranscriptionCompressor ControlsThresholdRatioAttackReleaseExample SettingsFIN (comment section)
+Downloads - Start Here Download the FREE [Compressor Cheatsheet](/downloads/compression-tut/Compression Cheatsheet.pdf) for an easy, one-page summary of compressor fundamentals.
+ Note: the PDF above is A4 sized &amp;amp; optimized for web. For a great looking printout and files good for print, please go to the shop.
+ ![cheatsheet](/downloads/compression-tut/Compression Cheatsheet.</description>
+    </item>
+    
+    <item>
+      <title>Cheatsheets</title>
+      <link>https://whoislewys.com/cheatsheets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://whoislewys.com/cheatsheets/</guid>
+      <description>Printable&amp;hellip; but watermarked! The cheatsheets on this page are specially designed to fit printer paper, so please print some!
+If you find some value here, I would appreciate referrals back to this page (whoislewys.com/cheatsheets) or a mention on Twitter/Insta (@whoislewys).
+Compressor Cheatsheet For YEARS I struggled with using compression properly, messing with knobs &amp;lsquo;till I got lucky. I read so many posts online and watch advanced tutorials on YouTube that confused me even more.</description>
+    </item>
+    
+    <item>
+      <title>CritHub</title>
+      <link>https://whoislewys.com/work/crithub/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://whoislewys.com/work/crithub/</guid>
+      <description>Project Overview: A critique platform for creatives to give, receive, &amp;amp; collect feedback. Millions of underground musicians are not able to easily move through the creative process because the review of music in development is made hard by a feeling of isolation within the creative ecosystem. Our number one goal with this project was to make the ideation, production, and testing of creative work easier for both underground and established musicians.</description>
+    </item>
+    
+    <item>
+      <title>GText</title>
+      <link>https://whoislewys.com/work/gtext/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://whoislewys.com/work/gtext/</guid>
+      <description>Project Overview: Lots of places in the developing world have extremely limited data access. But they can text. GText used the Twilio SMS API to send location requests to Google maps, and return directions to the user.
+This enables those with even the poorest connections to find directions to any place they can dream of. (In case they forgot a map, have never been to a certain place and want to know how far it is, etc.</description>
+    </item>
+    
+    <item>
+      <title>Mixing Cheatsheets</title>
+      <link>https://whoislewys.com/work/mixing-cheatsheets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://whoislewys.com/work/mixing-cheatsheets/</guid>
+      <description>Project Overview: Just as Paul Graham wished to be an artiste and tricked himself into settling for non-creative, pizza grease-stained technology, so have I. But here&amp;rsquo;s some cool posters I made anyways, to teach people how to use an audio effect called compression. (I got a bit obsessed with mix engineering midway thru high school)
+The compression sheet is STILL the top all time post on the r/edmproduction subreddit (as of Feb9, 2021).</description>
+    </item>
+    
+    <item>
+      <title>Mood Industries</title>
+      <link>https://whoislewys.com/work/mood_industries/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://whoislewys.com/work/mood_industries/</guid>
+      <description>Project Overview:  note: ah yes, the days of skipping calculus 2, to learn calculus 3, to write a better neural net, to give the best music recommendations in the world.
+ Discovering new underground music is painful because you have to spend a lot of time listening to bad music before finding a single good song. Our goal with this project was to make it trivial to find new music by new musicians that you could fall in love with.</description>
+    </item>
+    
+    <item>
+      <title>o shit waddup</title>
+      <link>https://whoislewys.com/tree/link1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://whoislewys.com/tree/link1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tekr</title>
+      <link>https://whoislewys.com/work/tekr.dev/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://whoislewys.com/work/tekr.dev/</guid>
+      <description>Project Overview: tekr is a quiz designed to help you discover if you are a conservative or liberal programmer. This has NOTHING to do with politics whatsoever - just risk aversion.
+It does say a surprising amount about who you work well with, though.
+It is based on a post by the prolific Steve Yegge, mirrored here.
+The project lives on tekr.dev.</description>
+    </item>
+    
+    <item>
+      <title>Workiva</title>
+      <link>https://whoislewys.com/work/workiva/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://whoislewys.com/work/workiva/</guid>
+      <description>Project Overview: Connecting Financial Processes &amp;ldquo;Make life easier with reports that write themselves.
+Our hardworking platform automates repetitive tasks, orchestrates workflows, and turns your data and reports into reusable assets. Never start from scratch again.&amp;rdquo;
+What I did:  Worked in a team of 4 to release a full-stack microservice to production in Workiva’s flagship product (Wdesk) using Java, Dart, React, and MySQL Use agile development processes to plan, develop, test, and release new features and improvements to the attachments, comments, history, and digital review experiences Maintain, refactor, and add new features to existing codebases at scale in Go, Java, and React Utilize modern cloud tooling like AWS EC2 and Docker  Fun Facts:  Ticker: $WK I got addicted to vim while working here thanks to my colleague Pat.</description>
+    </item>
+    
   </channel>
 </rss>

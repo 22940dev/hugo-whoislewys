@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Audio on whoislewys</title>
+    <link>https://whoislewys.com/categories/audio/</link>
+    <description>Recent content in Audio on whoislewys</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Oct 2018 06:07:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://whoislewys.com/categories/audio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why FFmpeg Loudness &amp; Normalization Guides Are All Wrong, Evil &amp; Immoral!</title>
+      <link>https://whoislewys.com/2018/10/18/audio_norm_guides_are_evil_and_immoral/</link>
+      <pubDate>Thu, 18 Oct 2018 06:07:00 +0000</pubDate>
+      
+      <guid>https://whoislewys.com/2018/10/18/audio_norm_guides_are_evil_and_immoral/</guid>
+      <description>The Wrong Way There are SEVERAL guides online telling you how to normalize audio to provide a great listening experience by using FFmpeg’s &amp;ldquo;loudnorm&amp;rdquo; filter. Most walk you through a simple process called &amp;ldquo;track normalization.&amp;rdquo; You set a goal loudness, and adjust every piece of audio up or down to match that loudness. This is evil and immoral and I’ll tell you why:
+Loudnorm changes the way things sound!
+Loudnorm crushes dynamics!</description>
+    </item>
+    
+    <item>
+      <title>Learn Compression ——   Without A Ph.D. —— &#43;Cheatsheet</title>
+      <link>https://whoislewys.com/2018/05/23/compression/</link>
+      <pubDate>Wed, 23 May 2018 12:00:00 +0000</pubDate>
+      
+      <guid>https://whoislewys.com/2018/05/23/compression/</guid>
+      <description>Index Here are quick links to each section. If you don&amp;rsquo;t know where to start, go to Downloads.
+DownloadsVideoTranscriptionCompressor ControlsThresholdRatioAttackReleaseExample SettingsFIN (comment section)
+Downloads - Start Here Download the FREE [Compressor Cheatsheet](/downloads/compression-tut/Compression Cheatsheet.pdf) for an easy, one-page summary of compressor fundamentals.
+ Note: the PDF above is A4 sized &amp;amp; optimized for web. For a great looking printout and files good for print, please go to the shop.
+ ![cheatsheet](/downloads/compression-tut/Compression Cheatsheet.</description>
+    </item>
+    
+  </channel>
+</rss>
