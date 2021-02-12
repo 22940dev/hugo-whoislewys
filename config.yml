@@ -12,7 +12,7 @@ params:
       enabled: true
   socialIcons: # optional
       - name: "GitHub"
-        url: "github.com/whoislewys"
+        url: "https://github.com/whoislewys"
 menu:
   main:
     - identifier: blog
