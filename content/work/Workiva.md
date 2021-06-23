@@ -15,9 +15,9 @@ Our hardworking platform automates repetitive tasks, orchestrates workflows, and
 
 
 ## What I did:
-* Worked in a team of 4 to release a full-stack microservice to production in Workiva’s flagship product (Wdesk) using Java, Dart, React, and MySQL
-* Use agile development processes to plan, develop, test, and release new features and improvements to the attachments, comments, history, and digital review experiences
-* Maintain, refactor, and add new features to existing codebases at scale in Go, Java, and React
+* Planned, developed, tested, and released new full-stack features and improvements to the attachments, comments, history, and digital review experiences of Workiva's flagship product (Wdesk)
+* Worked in a team of 4 to break off a piece monolithic code into a microservice using Java, and MySQL
+* Refactor and add new features to multiple existing codebases at scale in Go, Java, React (w/ Dart), and MySQL
 * Utilize modern cloud tooling like AWS EC2 and Docker
 
 
