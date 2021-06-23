@@ -58,7 +58,8 @@ The compression sheet is STILL the top all time post on the r/edmproduction subr
       <description>Project Overview: tekr is a quiz designed to help you discover if you are a conservative or liberal programmer. This has NOTHING to do with politics whatsoever - just risk aversion.
 It does say a surprising amount about who you work well with, though.
 It is based on a post by the prolific Steve Yegge, mirrored here.
-The project lives on tekr.dev.</description>
+The project lives on tekr.dev.
+What I did:  Buncha TypeScript  </description>
     </item>
     
     <item>
@@ -69,7 +70,7 @@ The project lives on tekr.dev.</description>
       <guid>https://whoislewys.com/work/workiva/</guid>
       <description>Project Overview: Connecting Financial Processes &amp;ldquo;Make life easier with reports that write themselves.
 Our hardworking platform automates repetitive tasks, orchestrates workflows, and turns your data and reports into reusable assets. Never start from scratch again.&amp;rdquo;
-What I did:  Worked in a team of 4 to release a full-stack microservice to production in Workiva’s flagship product (Wdesk) using Java, Dart, React, and MySQL Use agile development processes to plan, develop, test, and release new features and improvements to the attachments, comments, history, and digital review experiences Maintain, refactor, and add new features to existing codebases at scale in Go, Java, and React Utilize modern cloud tooling like AWS EC2 and Docker  Fun Facts:  Ticker: $WK I got addicted to vim while working here thanks to my colleague Pat.</description>
+What I did:  Planned, developed, tested, and released new full-stack features and improvements to the attachments, comments, history, and digital review experiences of Workiva&amp;rsquo;s flagship product (Wdesk) Worked in a team of 4 to break off a piece monolithic code into a microservice using Java, and MySQL Refactor and add new features to multiple existing codebases at scale in Go, Java, React (w/ Dart), and MySQL Utilize modern cloud tooling like AWS EC2 and Docker  Fun Facts:  Ticker: $WK I got addicted to vim while working here thanks to my colleague Pat.</description>
     </item>
     
   </channel>
