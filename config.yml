@@ -1,6 +1,6 @@
-baseURL: "https://whoislewys.com/"
+baseURL: "https://hugo-whoislewys.netlify.app/"
 languageCode: "en-us"
-title: "whoislewys"
+title: "Thoughts"
 
 theme: "hugo-PaperMod"
 defaultTheme: dark
