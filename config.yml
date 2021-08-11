@@ -2,7 +2,7 @@ baseURL: "https://whoislewys.com/"
 languageCode: "en-us"
 title: "whoislewys"
 
-theme: PaperMod
+theme: "hugo-PaperMod"
 defaultTheme: dark
 
 params:
